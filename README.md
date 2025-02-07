@@ -1,0 +1,1 @@
+# Analyza_Nemocnicnich_Dat
